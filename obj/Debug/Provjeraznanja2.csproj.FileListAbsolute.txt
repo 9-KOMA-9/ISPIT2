@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Provjeraznanja2\bin\Debug\Provjeraznanja2.exe.config
+C:\Users\ucenik\source\repos\Provjeraznanja2\bin\Debug\Provjeraznanja2.exe
+C:\Users\ucenik\source\repos\Provjeraznanja2\bin\Debug\Provjeraznanja2.pdb
+C:\Users\ucenik\source\repos\Provjeraznanja2\obj\Debug\Provjeraznanja2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Provjeraznanja2\obj\Debug\Provjeraznanja2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Provjeraznanja2\obj\Debug\Provjeraznanja2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Provjeraznanja2\obj\Debug\Provjeraznanja2.exe
+C:\Users\ucenik\source\repos\Provjeraznanja2\obj\Debug\Provjeraznanja2.pdb
